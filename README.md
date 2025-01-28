@@ -1,1 +1,3 @@
 CS241_Assignment1 -->  Learning to Install Flex and Bison for Building a Lexical Analyzer and Syntax Analyzer
+
+ICanSeeYourCats --> This code calculates the appropriate cage size for cats by first accepting the number of cats and their sizes from the user, ensuring the number is an even integer. If there is any invalid input, the program stops immediately. The findCageSize function groups cats by their sizes and checks if there are any cats of the same size that are not next to each other. If such cats are found, it selects the largest size from those groups and displays the required cage size. by kotlin
